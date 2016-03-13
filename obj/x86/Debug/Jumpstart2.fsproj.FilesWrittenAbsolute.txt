@@ -1,0 +1,5 @@
+/home/jacqueline/Projects/Jumpstart2/Jumpstart2/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/Projects/Jumpstart2/Jumpstart2/bin/Debug/Jumpstart2.exe.mdb
+/home/jacqueline/Projects/Jumpstart2/Jumpstart2/bin/Debug/Jumpstart2.exe
+/home/jacqueline/Projects/Jumpstart2/Jumpstart2/obj/x86/Debug/Jumpstart2.exe
+/home/jacqueline/Projects/Jumpstart2/Jumpstart2/obj/x86/Debug/Jumpstart2.exe.mdb
